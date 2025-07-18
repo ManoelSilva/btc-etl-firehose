@@ -1,0 +1,4 @@
+boto3
+pandas
+plotly
+nbformat>=4.2.0
